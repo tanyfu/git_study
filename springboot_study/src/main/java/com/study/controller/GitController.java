@@ -8,4 +8,6 @@ public class GitController {
     String name;
 
     int age;
+
+    String sex;
 }
